@@ -1,4 +1,4 @@
-# Risk & Resilience portfolio (5 projects)
+# Risk & Resilience portfolio (6 projects)
 
 Built to evidence the essential criteria of a Risk & Resilience Specialist role in a digital-led retailer:
 risk registers and KRIs, business impact analysis and continuity, scenario testing, incident learning,
@@ -15,6 +15,7 @@ cannot prove.
 | 3 | [Dependency network analysis](p3_dependency_network/README.md) | Single points of failure, third-party concentration, RTO conflicts | BIA, dependency mapping, third parties |
 | 4 | [Monte Carlo disruption simulation](p4_disruption_montecarlo/README.md) | Loss distribution vs impact tolerance, value of the continuity plan | Scenario testing, resilience, commercial judgement |
 | 5 | [AI risk and resilience assessment](p5_ai_risk_assessment/README.md) | Drift monitoring, fallback design and an AI risk register | Technology risk, change, emerging risk |
+| 6 | [BIA and continuity plan](p6_bia_continuity_plan/README.md) | Impact over time, RTOs, workarounds, roles and testing for a critical process (document) | BIA, continuity planning, incident response |
 
 ## Run it
 ```
